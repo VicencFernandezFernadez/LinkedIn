@@ -1,5 +1,5 @@
 # Computational physics
-This directory contains some projects of Computational physics made by me during the subject Física Computacional. You can find:
+This directory contains some projects of Computational physics made by me during the subject "Física Computacional". You can find:
 
 1. Interpolation and roots of functions.
 2. Numerical integration
