@@ -1,4 +1,4 @@
-! Aquest programa genera totes les dades per a la pràctica 7
+! Aquest programa  es basa Resolució de EDOs mitjançant Mètode d’Euler i RK2.
 ! Vicenç Fernàndez Fernàndez
 ! 28 / 11 / 2023
 
