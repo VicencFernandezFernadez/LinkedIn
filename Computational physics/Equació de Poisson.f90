@@ -1,4 +1,4 @@
-! Aquest programa genera totes les dades necesearies per a la pràctica 9
+! Aquest programa genera la Resolució de EDP, equacions el·líptiques, equació de Poisson, equació de la calor
 ! Vicenç Fernàndez Fernàndez
 ! 19/12/2023
 
