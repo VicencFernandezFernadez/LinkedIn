@@ -1,4 +1,4 @@
-! Aquest programa genera les dades per a la pràctica 8
+! Aquest programa genera  solucions per la Eq. Schrödinger amb  Runge-Kutta i mètodo del tir, per trobar Estats lligats
 ! 12/12/2023
 ! Vicenç Fernàndez Fernàndez
 
