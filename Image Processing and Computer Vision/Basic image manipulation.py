@@ -1,4 +1,3 @@
-# Lab 2
 # Vicenç Fernàndez Fernàndez
 
 import matplotlib.pyplot as plt
