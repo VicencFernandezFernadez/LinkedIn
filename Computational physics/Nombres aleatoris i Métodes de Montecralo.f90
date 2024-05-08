@@ -1,4 +1,4 @@
-! Aquest programa genera les dades necesaries per la pràctica 6
+! Aquest programa Métodes de Montecarlo (cru, sampleig d’importància), nombres aleatoris
 ! Vicenç Fernàndez Fernàndez
 ! 21/11/2023
 
