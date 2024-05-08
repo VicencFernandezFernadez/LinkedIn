@@ -1,8 +1,8 @@
-! Aquesta pràctica genera totes les dades per la P5
+! L'objectiu d'aquesta pràctica és la generació de nombres aleatorisi i histogrames normalitzats
 ! Vicenç Fernàndez Fernàndez
 ! 14/11/2023
 
-program practica4
+program practica5
     implicit none
     double precision :: xlow, xhigh, cotasup ! intervals de la funció i cotasuperior
     double precision :: l, pi, boxsize, sig
@@ -115,7 +115,7 @@ program practica4
 
 
 
-end program practica4
+end program practica5
 
 !---------------------------------------------------------------------------------
 ! SUBRUTINES 
@@ -178,7 +178,7 @@ subroutine accepta(ndades,numeros,xlow,xhigh,cotasup,funcio)
 
 end 
 
-! HISTOGRAMMA EXTRET DEL CAMPUS
+! HISTOGRAMMA 
 SUBROUTINE HISTOGRAMA(NDAT,XDATA,XA,XB,NBOX,XHIS,VHIS,ERRHIS,&
     BOXSIZE)
     implicit none
@@ -240,7 +240,7 @@ SUBROUTINE HISTOGRAMA(NDAT,XDATA,XA,XB,NBOX,XHIS,VHIS,ERRHIS,&
 END
 
 
-! REGLA DE SIMPSON 3/8 DE LA PRACTICA 4
+! REGLA DE SIMPSON 3/8 
 subroutine simpsontresvuit(x1, x2, k, f, resultat)
 	implicit none
 	double precision :: x1, x2  ! Límites de integración
