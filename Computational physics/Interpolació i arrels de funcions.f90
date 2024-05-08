@@ -1,4 +1,4 @@
-! Aquest programa genera les dades per la pràctica 3
+! Aquest programa utilitza metodes per trobar arrels de funcions com ara Newton-Raphson, bisecció, external
 ! Vicenç Fernàndez Fernàndez
 ! 24/10/2023
 program practica3
